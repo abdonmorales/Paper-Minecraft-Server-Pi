@@ -22,7 +22,7 @@ if [ $? -eq 1 ]; then
 fi
 
 if [[ -z "$DEVICE_HOSTNAME" ]]; then
-  DEVICE_HOSTNAME=balenaminecraftserver
+  DEVICE_HOSTNAME=minecraftserver
 fi
 
 if [[ -z "$JAR_FILE" ]]; then
@@ -30,7 +30,7 @@ if [[ -z "$JAR_FILE" ]]; then
 fi
 
 if [[ -z "$RAM" ]]; then
-  RAM="1G"
+  RAM="2G"
 fi
 
 printf "%s\n" "Setting device hostname to: $DEVICE_HOSTNAME"

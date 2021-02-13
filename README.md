@@ -1,4 +1,4 @@
-![Balena Server Logo](images/logo.png)
+![RPi Server Logo](images/logo.png)
 
 # Minecraft Server
 **Starter project enabling you a Minecraft Server using just a Raspberry Pi 4 or Jetson Nano.**

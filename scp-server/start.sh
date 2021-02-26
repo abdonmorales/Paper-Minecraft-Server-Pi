@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 if [[ -z "$SCP_PASSWORD" ]]; then
-  export SCP_PASSWORD=balena
+  export SCP_PASSWORD=raspberrypi
 fi
 
 # here we set up the config for openSSH.

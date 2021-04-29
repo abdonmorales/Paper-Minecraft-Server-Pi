@@ -1,7 +1,7 @@
-![RPi Server Logo](images/logo.png)
+![Paper Server Logo](logo.png)
 
-# Minecraft Server
-**Starter project enabling you a Minecraft Server using just a Raspberry Pi 4 or Jetson Nano.**
+# Paper Minecraft Server
+**Starter project enabling you a Paper Minecraft Server using just a Raspberry Pi 4, Jetson Nano, or really any computer.**
 
 This project has been tested on a Raspberry Pi 4 B 4GB & Nvidia Jetson Nano. I do not recommend using a Raspberry Pi 3 or older. They have not enough RAM and power to calculate all the things. :boom:
 

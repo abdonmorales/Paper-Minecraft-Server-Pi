@@ -1,4 +1,4 @@
-![RPi Server Logo](images/logo.png)
+![RPi Server Logo](images/logo-forge.jpeg)
 
 # Minecraft Forge Server
 **Starter project enabling you a Minecraft Server using just a Raspberry Pi 4 or Jetson Nano.**

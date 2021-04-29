@@ -1,4 +1,4 @@
-![Paper Server Logo](logo.png)
+![Paper Server Logo](images/logo.png)
 
 # Paper Minecraft Server
 **Starter project enabling you a Paper Minecraft Server using just a Raspberry Pi 4, Jetson Nano, or really any computer.**

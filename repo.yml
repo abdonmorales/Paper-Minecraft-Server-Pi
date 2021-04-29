@@ -1,4 +1,4 @@
 type: generic
 upstream:
-  - repo: RPi-Paper-Minecraft-Server
-    url: https://github.com/abdonmorales/Paper-Minecraft-Server
+  - repo: Paper-Minecraft-Server
+    url: https://github.com/abdonmorales/Minecraft-Server

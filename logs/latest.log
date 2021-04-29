@@ -1,0 +1,118 @@
+[17:22:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:22:14] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[17:22:17] [Worker-Main-1/INFO]: Loaded 7 recipes
+[17:22:23] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[17:22:23] [Server thread/INFO]: Loading properties
+[17:22:24] [Server thread/INFO]: This server is running Paper version git-Paper-466 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[17:22:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:22:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:22:25] [Server thread/INFO]: Debug logging is disabled
+[17:22:25] [Server thread/INFO]: Default game type: SURVIVAL
+[17:22:25] [Server thread/INFO]: Generating keypair
+[17:22:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:22:26] [Server thread/INFO]: Using epoll channel type
+[17:22:27] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[17:22:54] [Server thread/WARN]: Legacy plugin Economy v1.7.1 does not specify an api-version.
+[17:22:54] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[17:22:54] [Server thread/INFO]: [Economy] Loading Economy v1.7.1
+[17:22:54] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.2+fc3c499
+[17:22:57] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6642418c]
+[17:22:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:22:57] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[17:22:57] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[17:22:57] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[17:22:57] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.2+fc3c499
+[17:22:57] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[17:22:58] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[17:23:02] [Server thread/INFO]: Preparing level "world"
+[17:23:02] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[17:23:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:23:06] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[17:23:06] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:06] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:06] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:06] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:06] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:06] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:07] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:07] [Server thread/INFO]: Preparing spawn area: 1%
+[17:23:08] [Server thread/INFO]: Preparing spawn area: 19%
+[17:23:08] [Server thread/INFO]: Time elapsed: 4467 ms
+[17:23:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:23:09] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[17:23:09] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:09] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:09] [Server thread/INFO]: Preparing spawn area: 0%
+[17:23:10] [Server thread/INFO]: Preparing spawn area: 3%
+[17:23:10] [Server thread/INFO]: Preparing spawn area: 3%
+[17:23:11] [Server thread/INFO]: Time elapsed: 2459 ms
+[17:23:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:23:11] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[17:23:12] [Server thread/INFO]: Time elapsed: 831 ms
+[17:23:12] [Server thread/INFO]: [Economy] Enabling Economy v1.7.1*
+[17:23:12] [Server thread/INFO]: [Economy] Vault found, Economy has been registered.
+[17:23:16] [Server thread/INFO]: Starting GS4 status listener
+[17:23:16] [Server thread/INFO]: Thread Query Listener started
+[17:23:16] [Server thread/INFO]: Starting remote control listener
+[17:23:16] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[17:23:16] [Server thread/INFO]: Thread RCON Listener started
+[17:23:16] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[17:23:16] [Server thread/INFO]: Running delayed init tasks
+[17:23:16] [Server thread/INFO]: Done (52.662s)! For help, type "help"
+[17:23:16] [Server thread/INFO]: Timings Reset
+[17:23:16] [Craft Scheduler Thread - 5/INFO]: [Vault] Checking for Updates ... 
+[17:23:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[17:23:24] [Craft Scheduler Thread - 5/INFO]: [Vault] No new version available
+[17:25:52] [User Authenticator #1/INFO]: UUID of player AbdonMorales is b3f80708-8662-479c-b226-77380a3efa6d
+[17:25:53] [Server thread/INFO]: AbdonMorales joined the game
+[17:25:54] [Server thread/INFO]: AbdonMorales[/192.168.1.2:58701] logged in with entity id 188 at ([world]-197.0942956794946, 75.0, -404.94683574747046)
+[17:26:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5045ms or 100 ticks behind
+[17:27:25] [Server thread/INFO]: AbdonMorales has made the advancement [Fishy Business]
+[17:27:56] [Server thread/INFO]: AbdonMorales lost connection: Disconnected
+[17:27:56] [Server thread/INFO]: AbdonMorales left the game
+[17:40:35] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-466 (MC: 1.16.5) ---
+[17:40:35] [Paper Watchdog Thread/ERROR]: The server has not responded for 24 seconds! Creating thread dump
+[17:40:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[17:40:35] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[17:40:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[17:40:35] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[17:40:35] [Paper Watchdog Thread/ERROR]: 	PID: 20 | Suspended: false | Native: false | State: RUNNABLE
+[17:40:35] [Paper Watchdog Thread/ERROR]: 	Stack:
+[17:40:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.ChunkProviderServer.lambda$tickChunks$14(ChunkProviderServer.java:822)
+[17:40:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.ChunkProviderServer$$Lambda$4604/0x0000000100eb1440.accept(Unknown Source)
+[17:40:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PlayerChunkMap.forEachVisibleChunk(PlayerChunkMap.java:628)
+[17:40:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.ChunkProviderServer.tickChunks(ChunkProviderServer.java:816)
+[17:40:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.ChunkProviderServer.tick(ChunkProviderServer.java:734)
+[17:40:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.WorldServer.doTick(WorldServer.java:461)
+[17:40:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1357)
+[17:40:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:377)
+[17:40:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1209)
+[17:40:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:997)
+[17:40:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:174)
+[17:40:35] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3136/0x0000000100918c40.run(Unknown Source)
+[17:40:35] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.10/java.lang.Thread.run(Thread.java:834)
+[17:40:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[17:40:35] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[17:40:35] [Paper Watchdog Thread/ERROR]: ------------------------------
+[17:40:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24589ms or 491 ticks behind
+[17:41:35] [Server thread/INFO]: Stopping the server
+[17:41:35] [Server thread/INFO]: Stopping server
+[17:41:35] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.2+fc3c499
+[17:41:35] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:41:35] [Server thread/INFO]: [Economy] Disabling Economy v1.7.1
+[17:41:35] [Server thread/INFO]: [Economy] Saving all accounts...
+[17:41:35] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[17:41:35] [Server thread/INFO]: Saving players
+[17:41:35] [Server thread/INFO]: Saving worlds
+[17:41:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:41:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:41:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:41:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:41:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:41:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:41:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:41:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:41:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:41:44] [Server thread/INFO]: Flushing Chunk IO
+[17:41:44] [Server thread/INFO]: Closing Thread Pool
+[17:41:44] [Server thread/INFO]: Closing Server

@@ -1,4 +1,4 @@
 type: generic
 upstream:
   - repo: Forge-Minecraft-Server
-    url: https://github.com/abdonmorales/Minecraft-Server
+    url: https://github.com/abdonmorales/Minecraft-Server/tree/forge-main

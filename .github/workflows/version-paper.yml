@@ -1,0 +1,30 @@
+# .github/workflows/version-paper.yml
+name: Paper Server - version 1.1.2
+
+on:
+  pull_request:
+    paths:
+      - .github/workflows/version-paper.yml
+      - logs/**
+  push:
+    paths:
+      - .github/workflows/version-paper.yml
+      - logs/**
+    branches:
+      - paper-main
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}   # checkout the correct branch name
+          fetch-depth: 0                # fetch the whole repo history
+
+      - name: Git Version
+        uses: codacy/git-version@2.2.0
+        with:
+          prefix: paper-server-
+          log-path: logs/

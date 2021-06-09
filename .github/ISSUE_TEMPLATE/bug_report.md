@@ -23,9 +23,9 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Raspberry Pi (please complete the following information):**
- - OS: [e.g. balenaOS 2.41.0+rev4]
- - Version [e.g. 22]
+**Computer Information:**
+ - OS: [e.g. Arch Linux]
+ - Version [e.g. 2021.06]
 
 **Minecraft (please complete the following information):**
  - Device: [e.g. iPhone6]

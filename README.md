@@ -100,7 +100,7 @@ balenaMinecraftServer also supports plugins. Just drop the in the plugins folder
 * Spigot resources: https://www.spigotmc.org/resources/categories/spigot.4/
 * Bukkit: https://dev.bukkit.org/bukkit-plugins
 
-**NOTE:** Before adding the plugin and getting an error look if the plugin supports `1.16`.
+**NOTE:** Before adding the plugin and getting an error look if the plugin supports `1.16.5`.
 
 ## Play worldwide (optional) :earth_americas:
 

@@ -1,6 +1,6 @@
 echo "Script version v1.3.1"
 
-wget https://github.com/abdonmorales/Minecraft-Server/raw/vanilla-main/minecraft_server.1.17.jar
+wget https://github.com/abdonmorales/Minecraft-Server/raw/jars/minecraft_server.1.17.jar
 
 echo "Finish downloading Server JAR (1.17) for MC SERVER v1.3.2"
 

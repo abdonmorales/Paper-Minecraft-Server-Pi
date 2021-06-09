@@ -1,6 +1,6 @@
 wget https://github.com/abdonmorales/Minecraft-Server/raw/vanilla-main/minecraft_server.1.17.jar
 
-echo "Finish downloading Server JAR (1.17) for MC SERVER v1.3"
+echo "Finish downloading Server JAR (1.17) for MC SERVER v1.3.2"
 
 echo Making directory to store the JAR
 

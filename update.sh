@@ -1,0 +1,24 @@
+echo "MC Server (Update)"
+echo "Shell Script v1.3 (Paper)"
+
+MC_VERSION=1.16.5-775
+
+get_latest_server() {
+  SERVER_JAR_URL="https://github.com/abdonmorales/Minecraft-Server/raw/jars/paper-1.16.5-775.jar"
+
+ printf "%s" "Checking server JAR... "
+  if [[ ! -e "paper-$MC_VERSION.jar" ]]; then
+    printf "%s\n" "No server JAR found."
+    get_latest_server
+  fi
+
+
+echo "Finished downloading PaperMC Server JAR 1.16.5-775 for MC Server (Paper) v1.3"
+
+echo "JAR now up to date!"
+
+echo "Running jar!"
+
+exec java -Xmx1G -Xms1G -jar paper-1.16.5-775.jar nogui
+
+# Adjust the RAM to your liking

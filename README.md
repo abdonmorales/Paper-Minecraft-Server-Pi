@@ -1,6 +1,6 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/abdonmorales/Minecraft-Server)
 
-![Paper Server Logo](images/logo.png)
+![Paper Server Logo](src/images/logo.png)
 
 # Paper Minecraft Server v1.3 (Paper 1.16.5 - build 775)
 **Starter project enabling you a Paper Minecraft Server using just a Raspberry Pi 4, Jetson Nano, or really any computer.**

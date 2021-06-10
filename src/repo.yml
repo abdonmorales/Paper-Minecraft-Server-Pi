@@ -1,0 +1,4 @@
+type: generic
+upstream:
+  - repo: Paper-Minecraft-Server
+    url: https://github.com/abdonmorales/Minecraft-Server

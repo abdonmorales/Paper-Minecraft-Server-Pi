@@ -7,8 +7,10 @@ MC_VERSION="1.16.5-775"
 
 get_latest_server() {
   SERVER_JAR_URL="https://github.com/abdonmorales/Minecraft-Server/raw/jars/paper-1.16.5-775.jar"
+  wget $SERVER_JAR_URL
+}
 
-determine_OS() {
+run_minecraft() {
   if [[ OS="Darwin" ]]; then
    java -Xmx1G -Xms1G -jar paper-1.16.5-775.jar nogui
    echo "MacOS"
@@ -31,4 +33,4 @@ echo "JAR now up to date!"
 
 echo "Now running JAR"
 
-determine_OS
+run_minecraft

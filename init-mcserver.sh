@@ -1,4 +1,4 @@
-echo "Script version v1.3.1"
+echo "Script version v1.3.2"
 
 wget https://github.com/abdonmorales/Minecraft-Server/raw/jars/minecraft_server.1.17.jar
 
@@ -21,3 +21,5 @@ echo "~/Minecraft/Servers/1.17-vanilla/"
 echo "Now executing JAR file"
 
 exec java -Xmx1G -Xms1G -jar minecraft_server.1.17.jar
+
+# Add the -nogui switch to the end of the command in the script if you want no GUI!

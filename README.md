@@ -2,7 +2,7 @@
 
 ![Paper Server Logo](src/images/logo.png)
 
-# Paper Minecraft Server v1.3 (Paper 1.16.5 - build 775)
+# Paper Minecraft Server v1.3.1 (Paper 1.16.5 - build 77X)
 **Starter project enabling you a Paper Minecraft Server using just a Raspberry Pi 4, Jetson Nano, or really any computer.**
 
 This project has been tested on a Raspberry Pi 4 B 4GB & Nvidia Jetson Nano. I do not recommend using a Raspberry Pi 3 or older. They have not enough RAM and power to calculate all the things. :boom:

@@ -1,5 +1,5 @@
 echo "MC Server (Update)"
-echo "Shell Script v1.3 (Paper)"
+echo "Shell Script v1.3.1 (Paper)"
 
 OS="`uname`"
 
@@ -11,7 +11,7 @@ get_latest_server() {
 determine_OS() {
   if [[ OS="Darwin" ]]; then
    java -Xmx1G -Xms1G -jar paper-1.16.5-775.jar nogui
-   echo "MacOS"
+   echo "MacOS 11.0 (Big Sur)"
    elif [[ OS="Linux" ]]; then
       exec java -Xmx1G -Xms1G -jar paper-1.16.5-775.jar nogui
       echo "Linux"

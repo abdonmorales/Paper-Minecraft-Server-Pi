@@ -10,5 +10,5 @@ Should you want to start the server with its graphical user interface you can le
 
 You can also change the amount of RAM that is reserved for the Minecraft Server by modifying the GB of RAM in command (to start the server)
 
-### This release of MC Server 1.3 is based on vanilla Minecraft 1.17
+### This release of MC Server 1.3 and 1.3.X is based on vanilla Minecraft 1.17.X
 ## ⚠️ Warning! Minecraft 1.17 and onward requires Java 15 and higher

@@ -1,5 +1,5 @@
-echo "MC Server (Update)"
-echo "Shell Script v1.3.1 (Paper)"
+echo "MC Server Initialization"
+echo "Shell Script v1.4 (Paper)"
 
 OS="`uname`"
 
@@ -25,7 +25,7 @@ printf "%s" "Checking server JAR... "
   fi
 
 
-echo "Finished downloading PaperMC Server JAR 1.16.5-775 for MC Server (Paper) v1.3"
+echo "Finished downloading PaperMC Server JAR 1.16.5-775 for MC Server (Paper) v1.4"
 
 echo "JAR now up to date!"
 

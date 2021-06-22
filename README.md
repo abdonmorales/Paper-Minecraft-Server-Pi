@@ -2,7 +2,7 @@
 
 ![Paper Server Logo](src/images/logo.png)
 
-# Paper Minecraft Server v1.3.1 (Paper 1.16.5 - build 77X)
+# Paper Minecraft Server v1.4 (Paper 1.17)
 **Starter project enabling you a Paper Minecraft Server using just a Raspberry Pi 4, Jetson Nano, or really any computer.**
 
 This project has been tested on a Raspberry Pi 4 B 4GB & Nvidia Jetson Nano. I do not recommend using a Raspberry Pi 3 or older. They have not enough RAM and power to calculate all the things. :boom:
@@ -70,12 +70,12 @@ Devices like the Raspberry Pi 4B 4GB or the 8GB model have enough RAM to run the
 
 ## Add plugins (optional) :wrench:
 
-balenaMinecraftServer also supports plugins. Just drop the in the plugins folder using [`SCP`](https://github.com/AlexProgrammerDE/balena-minecraft-server#connect-to-the-file-directory-satellite). The current Minecraft version is `1.16.5`. You can get your plugins from there(Other work too.): 
+balenaMinecraftServer also supports plugins. Just drop the in the plugins folder using [`SCP`](https://github.com/AlexProgrammerDE/balena-minecraft-server#connect-to-the-file-directory-satellite). The current Minecraft version is `1.17`. You can get your plugins from there(Other work too.): 
 
 * Spigot resources: https://www.spigotmc.org/resources/categories/spigot.4/
 * Bukkit: https://dev.bukkit.org/bukkit-plugins
 
-**NOTE:** Before adding the plugin and getting an error look if the plugin supports `1.16.5`.
+**NOTE:** Before adding the plugin and getting an error look if the plugin supports `1.17`.
 
 ## Play worldwide (optional) :earth_americas:
 
@@ -99,13 +99,10 @@ If you want to customize your server even further, but don't know where to start
 
 * Spigot (Vanilla Java Edition): https://getbukkit.org/download/spigot
 * Purpur (Vanilla Java Edition, very well optimized for 1.16.3) https://purpur.pl3x.net/
-* Vanilla from Minecraft (Vanilla Java Edition): https://getbukkit.org/download/vanilla
 * Paper (Vanilla Java Edition): https://papermc.io/downloads
-* Forge (Modded Java Edition): http://files.minecraftforge.net/
 * ccSpigot (Vanilla Java Edition, Fork and continuation of Paper 1.12.2): https://github.com/moom0o/ccSpigot
 
-Note: Balena Minecraft Server uses Paper. It is an efficient and powerful server. It is compatible with spigot and bukkit plugins.
 
-I encourage you to take your server build even further! There are many tutorials out there on server customization-- this article only touches on a few ideas. If you need help, please reach out by submitting an [issue on GitHub](https://github.com/AlexProgrammerDE/balena-minecraft-server/issues).
+I encourage you to take your server build even further! There are many tutorials out there on server customization-- this article only touches on a few ideas. If you need help, please reach out by submitting an [issue on GitHub](https://github.com/abdonmorales/Minecraft-Server/issues).
 
 This project is in active development so if you have any feature requests or issues please submit them here on GitHub. PRs are welcome, too. :octocat:

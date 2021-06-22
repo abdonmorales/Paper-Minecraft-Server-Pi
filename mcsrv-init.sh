@@ -3,17 +3,17 @@ echo "Shell Script v1.4 (Paper)"
 
 OS="`uname`"
 
-MC_VERSION="1.16.5-775"
+MC_VERSION="1.17-775"
 
 get_latest_server() {
   SERVER_JAR_URL="https://github.com/abdonmorales/Minecraft-Server/raw/jars/paper-1.16.5-775.jar"
 
 determine_OS() {
   if [[ OS="Darwin" ]]; then
-   java -Xmx1G -Xms1G -jar paper-1.16.5-775.jar nogui
+   java -Xmx1G -Xms1G -jar paper-1.17-775.jar nogui
    echo "MacOS 11.0 (Big Sur)"
    elif [[ OS="Linux" ]]; then
-      exec java -Xmx1G -Xms1G -jar paper-1.16.5-775.jar nogui
+      exec java -Xmx1G -Xms1G -jar paper-1.17-775.jar nogui
       echo "Linux"
   fi
 }
@@ -25,7 +25,7 @@ printf "%s" "Checking server JAR... "
   fi
 
 
-echo "Finished downloading PaperMC Server JAR 1.16.5-775 for MC Server (Paper) v1.4"
+echo "Finished downloading PaperMC Server JAR 1.17-775 for MC Server (Paper) v1.4"
 
 echo "JAR now up to date!"
 

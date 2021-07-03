@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "MC Server Initialization"
 echo "Shell Script v1.4 (Paper)"
 
